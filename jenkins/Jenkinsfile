@@ -1,4 +1,3 @@
-#!groovy
 pipeline {
     agent {
         docker {
@@ -22,6 +21,10 @@ pipeline {
                 }
             }
         }
+        stage('Deliver') {
+            steps {
+                sh './jenkins/scripts/deliver.sh'
+            }
+        }
     }
-
 }
