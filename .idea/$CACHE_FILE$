@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/andfun-kotlin-mars-real-estate-Step.01-Exercise-Making-Mars-Web-Service-Contact" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/demo" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/mixit-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/parser-library" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/skeleton-springboot-webflux-kotlin" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/cargo-security/cs-alert-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/cargo-security/cs-auth-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/cargo-security/cs-config-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/cargo-security/cs-device-gateway" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/cargo-security/cs-eseal-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/cargo-security/cs-eseal-service/cs-eseal-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/cargo-security/cs-event-processing-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/cargo-security/cs-event-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/cargo-security/cs-gateway-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/cargo-security/cs-mission-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/cargo-security/cs-registry-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/cargo-security/cs-zipkin-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/cargo-security/eseal-monitor" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/cargo-security/old/cs-auth-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/cargo-security/old/exercise" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/cargo-security/old/parser-library" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/cargo-security/parser-library" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/demo" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/exercise" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/hotel-exercise" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Gradle</id>
+          </State>
+          <State>
+            <id>GradleMigrationKotlin</id>
+          </State>
+          <State>
+            <id>InternationalizationLintAndroid</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>MigrationKotlin</id>
+          </State>
+          <State>
+            <id>PerformanceLintAndroid</id>
+          </State>
+          <State>
+            <id>Probable bugsGradle</id>
+          </State>
+          <State>
+            <id>SecurityLintAndroid</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+</project>
